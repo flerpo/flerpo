@@ -7,7 +7,7 @@
 ### Some useless stats
 
 ![Personal projects github stats](https://github-readme-stats.vercel.app/api?username=flerpo&show_icons=true)&nbsp;&nbsp;
-![Personal projects language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flerpo&langs_count=8)
+![Personal projects language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flerpo&langs_count=8&layout=compact)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flerpo.flerpo)
